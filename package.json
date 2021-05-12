@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ikejs/gql-chat#readme",
   "dependencies": {
+    "@apollo/client": "^3.3.17",
     "apollo-server": "^2.23.0",
     "assert": "^2.0.0",
     "express": "^4.17.1",
